@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_TffaEZA3EeiKAJLNgOINWg" label="Test_Deploy" description="Test_job" language="java" technicalLabel="TEST_DEPLOY" creationDate="2018-07-25T23:44:09.968+0530" author="_TffaEpA3EeiKAJLNgOINWg" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/parimeltalend/test&quot;,&quot;login&quot;:&quot;parimeltalend&quot;,&quot;passwd&quot;:&quot;ap4/S41nX96kV3FxJQ4n2w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_TffaEZA3EeiKAJLNgOINWg" label="Test_Deploy" description="Test_job" language="java" technicalLabel="TEST_DEPLOY" creationDate="2018-07-25T23:44:09.968+0530" author="_TffaEpA3EeiKAJLNgOINWg" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/parimeltalend/test&quot;,&quot;login&quot;:&quot;parimeltalend&quot;,&quot;passwd&quot;:&quot;ap4/S41nX96kV3FxJQ4n2w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_T9N34JA3EeiKAJLNgOINWg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_T9N34ZA3EeiKAJLNgOINWg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_T9N34pA3EeiKAJLNgOINWg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_T9AcgJA3EeiKAJLNgOINWg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_T9AcgZA3EeiKAJLNgOINWg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_T9AcgpA3EeiKAJLNgOINWg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_T7LQgJA3EeiKAJLNgOINWg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7LQgZA3EeiKAJLNgOINWg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7LQgpA3EeiKAJLNgOINWg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
